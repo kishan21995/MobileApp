@@ -1,0 +1,19 @@
+<resources>
+<string name="app_name">MobileApp</string>
+<string name="connecting">Connecting Newsmedia to Newsmakers</string>
+<string name="item_text">No items in your cart</string>
+<string name="Media">A B2B media insight engine and marketplace </string>
+<string name="india">indias next PR platform</string>
+
+<string name="find">FIND A REPORTER</string>
+<string name="Lorem">Lorem lpsum simplydummy text of the printing</string>
+<string name="industry">and typesetting industry...</string>
+<string name="search">Search your jornalist here...</string>
+<string name="contact">Search your contact here...</string>
+<string name="name">MATT FRANKS</string>
+<string name="working">working with Times of India</string>
+<string name="email">Mattfranks@timesofindias.com</string>
+<string name="mobile">9876543210</string>
+<string name="cont">Contact</string>
+
+</resources>
